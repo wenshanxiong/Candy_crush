@@ -5,8 +5,7 @@ The current version is a terminal based, refreshing with each operation.
 
 An executable implementation with UI will be considered in the future.
 
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 Game instruction:
 
